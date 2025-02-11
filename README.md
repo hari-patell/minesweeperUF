@@ -7,4 +7,4 @@ SFML version: 2.6.1
 IDE: cLion
 Other notes: I made it so that on the first click, 
 you can't lose and you can't place a flag (like real minesweeper).
-After that game functions like normal
+After that game functions like normal# minesweeperUF
